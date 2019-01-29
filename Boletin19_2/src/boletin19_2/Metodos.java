@@ -16,7 +16,7 @@ class Metodos {
         }
         return clase;
     }
-    
+ 
     public void mostrar(Alumno[] clase){
         for (Alumno clase1 : clase) {
             System.out.println(clase1.toString());
@@ -92,3 +92,4 @@ class Metodos {
     }
     
 }
+//y end
